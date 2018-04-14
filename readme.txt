@@ -1,2 +1,2 @@
 GIt is a software.
-Git is good.
+Git is well.
