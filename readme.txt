@@ -1,2 +1,6 @@
 GIt is a software.
-Git is well and good.
+<<<<<<< HEAD
+Git is good.
+=======
+Git is good.
+>>>>>>> feature1
